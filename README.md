@@ -1,7 +1,7 @@
 # icopify_web_scraping
 
 Icopify is a guest posing website which provide us guest posting services on specific domaines. So, For that we need data from that website.
-We have used the selenium for scraping this website.
+We have used the selenium for scraping this website and XPATH for selecting the specific fields.
 
     https://icopify.co/
 
